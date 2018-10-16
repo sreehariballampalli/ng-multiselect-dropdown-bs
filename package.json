@@ -1,0 +1,30 @@
+{
+  "name": "ng-multiselect-dropdown-bs",
+  "version": "1.1.2",
+  "description": "multi select dropdown with keyboard navigation in angular2 above",
+  "main": "index.js",
+  "dependencies": {
+    "ng-multiselect-dropdown-bs": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreehariballampalli/ng-multiselect-dropdown-bs.git"
+  },
+  "keywords": [
+    "angular",
+    "multiselect",
+    "with",
+    "kewboard",
+    "navigation"
+  ],
+  "author": "sreeharibsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreehariballampalli/ng-multiselect-dropdown-bs/issues"
+  },
+  "homepage": "https://github.com/sreehariballampalli/ng-multiselect-dropdown-bs#readme"
+}
